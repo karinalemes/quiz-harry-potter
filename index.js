@@ -24,7 +24,7 @@ const perguntas = [
         "Kreacher",
         "Winky",
       ],
-      correta: 0
+      correta: 1
     },
     {
       pergunta: "Quem é o diretor da Escola de Magia e Bruxaria de Hogwarts no primeiro livro?",
@@ -78,7 +78,7 @@ const perguntas = [
         "Rato",
         "Salamandra",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "Quem é o professor de Defesa Contra as Artes das Trevas no segundo ano de Harry em Hogwarts?",
