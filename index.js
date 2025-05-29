@@ -56,11 +56,11 @@ const perguntas = [
     {
       pergunta: "Qual é a última Horcrux que Harry destrói?",
       respostas: [
-        "A taça de Hufflepuff",
+        "Diadema de Rowena Ravenclaw",
         "Nagini, a cobra de Voldemort",
         "O diário de Tom Riddle",
       ],
-      correta: 1
+      correta: 0
     },
     {
       pergunta: "Qual é o nome verdadeiro de Lord Voldemort?",
