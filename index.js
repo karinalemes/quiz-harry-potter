@@ -58,7 +58,7 @@ const perguntas = [
       respostas: [
         "Diadema de Rowena Ravenclaw",
         "Nagini, a cobra de Voldemort",
-        "Diadema de Rowena Ravenclaw",
+        "Taça de Helga Hufflepuff",
       ],
       correta: 0
     },
